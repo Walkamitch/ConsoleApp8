@@ -4,6 +4,7 @@
     'using a class for Tic Tac Toe
     Sub Main()
         Console.WriteLine("Tic Tac Toe by Walker Owens!")
+        Console.Writeline("Edited on GithuB - but I don't have to give Credit")
         Dim myboard As New TTTBoard
         myboard.resetboard()
         Dim gameover As Boolean = False
